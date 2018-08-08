@@ -1,0 +1,48 @@
+{
+  "name": "ReactNativeDating",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.14.0",
+    "jest-expo": "~27.0.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "expo": "^27.0.1",
+    "firebase": "^5.2.0",
+    "native-base": "^2.7.2",
+    "react": "16.3.1",
+    "react-native": "~0.55.2",
+    "react-native-animatable": "^1.3.0",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^0.19.1",
+    "react-native-gifted-chat": "^0.4.3",
+    "react-native-image-crop-picker": "^0.20.3",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-multi-slider": "^0.3.6",
+    "react-native-multiple-select": "^0.4.4",
+    "react-native-phone-auth-component": "^0.1.1",
+    "react-native-phone-input": "^0.2.1",
+    "react-native-sectioned-multi-select": "^0.5.2",
+    "react-native-sideswipe": "^1.4.2",
+    "react-native-sms-verifycode": "^1.1.6",
+    "react-native-swiper": "^1.5.13",
+    "react-native-switch": "^1.5.0",
+    "react-native-vector-icons": "^5.0.0",
+    "react-navigation": "^2.7.0",
+    "switch-button-react-native": "^1.0.3",
+    "twilio": "^3.18.0"
+  }
+}
